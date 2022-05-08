@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danjaldav
 - 👀 I’m interested in data warehousing and business intelligence
-- 🌱 I’m currently learning data engineering with GCP
+- 🌱 I’m currently learning data engineering on GCP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
